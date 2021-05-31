@@ -180,7 +180,10 @@ section img{
   z-index:4;
 }
 
-
+#title4{
+	z-index:1;
+  position:absolute;
+  }
 
 .bounce {
   animation: bounce 2s;
@@ -290,8 +293,8 @@ section img{
 }
 @media (max-width:1000px){
   .grid {
-    margin-left: auto%;
-    margin-right:auto%;
+    margin-left: auto;
+    margin-right:auto;
 }}
 
 @media (max-width:600px){
@@ -715,3 +718,10 @@ figure.effect-port:hover p {
   transform:translateY(-100%);
   transition: all 0.3s 1s ease-out;
 }
+
+
+
+
+
+
+

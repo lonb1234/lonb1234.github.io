@@ -60,7 +60,6 @@ window.addEventListener('load',function(){
     document.getElementById("mountain").style.top=value *0.5+'px';
  
     document.getElementById("title4").style.marginTop=value*1.25+'px';
-
   
   })
 
